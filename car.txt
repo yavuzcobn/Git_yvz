@@ -4,4 +4,6 @@ remoteda kodlar ekledim
 bazi kodlar yazdim
 
 burada cakisma olacak
+
 yavuz branchi kod yazdi.
+
